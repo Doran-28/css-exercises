@@ -34,16 +34,15 @@ body {
 }
 
 .card {
-  /* border: 1px solid #eee;
+  border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
-  border-radius: 4px; */
-  height: 50px;
+  border-radius: 4px;
+
   width: 400px;
 }
 
 .cards {
-  margin-top: 50px;
-  margin-left: 50px;
+  padding: 40px;
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
